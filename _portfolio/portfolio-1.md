@@ -1,6 +1,6 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "Simple-Unix-Shell"
+excerpt: "This is a simple unix shell written C with simple functions such as help, cd, pid, ppid, and exit.<br/><img src='/images/500x300.png'>"
 collection: portfolio
 ---
 
