@@ -12,9 +12,7 @@ I am a **Senior Computer Science student** at **Virginia Commonwealth University
 
 - **Languages**: Java, C, PHP, Python, Rust
 - **Frameworks & Tools**: Laravel, Bootstrap, Flask, MySQL
-
 ## Projects
-
 ### Senior Capstone Project
 **“Emotion Recognition in Developer Meetings Using Advanced AI”**  
 In this project, I using Python and AI tools to analyze emotional states in meeting interactions. The goal is to improve **collaboration** and **mental well-being** in software development environments.
